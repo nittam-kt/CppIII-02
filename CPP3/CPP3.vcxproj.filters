@@ -140,5 +140,6 @@
     <None Include="..\external\DirectXTK\Inc\SimpleMath.inl">
       <Filter>DirectXTK</Filter>
     </None>
+    <None Include="M PLUS 1.spritefont" />
   </ItemGroup>
 </Project>

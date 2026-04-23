@@ -181,6 +181,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="..\external\DirectXTK\Inc\SimpleMath.inl" />
+    <None Include="M PLUS 1.spritefont" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
